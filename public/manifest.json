@@ -1,0 +1,12 @@
+{
+  "name": "Smart Pharmacy Platform",
+  "short_name": "Pharmacy",
+  "description": "Smart Pharmacy Management & Medication Intelligence Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "/next.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
